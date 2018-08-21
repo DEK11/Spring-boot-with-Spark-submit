@@ -1,0 +1,6 @@
+#spring:
+#  application:
+#    name: spark
+#  profiles: local
+#server:
+#  port: 8090
